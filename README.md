@@ -2,14 +2,19 @@
 Anonymous URL Shortener Website script written in PHP that using JSON as storage. [NO DATABASE]
 
 ### Features
+* Anonymous URL Shortener Script
 * No Database Required
+* Lightweight (~14kb)
 * Support Multi URLs Shortening
-* Anonymous and Fast
-* Bootstrap Interface and User Friendly
-* Randomize URLs
+* Randomize URLs Feature
 * Secure URLs with Password
-* Single File Script
-* Easy to Modification
+* Good URL Validator with Regex
+* Bootstrap Interface and User Friendly
+* Easy to Customize
+
+
+### Demo
+Take a look at http://cokot.gq
 
 ### Installation
 * Put .htaccess and index.php in your desired directory ( '/' )
